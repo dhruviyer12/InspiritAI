@@ -1,4 +1,6 @@
 Distracted Driver Detection with Computer Vision
+
+
 **Project Overview**
 This project is all about using computer vision and deep learning to figure out if a driver is paying attention to the road or getting distracted. It looks at pictures from a dashboard camera and puts the driver into one of four groups: paying attention, drinking coffee, checking the mirror, or messing with the radio. The code walks through the whole process, starting with basic neural networks and moving all the way up to advanced image models and transfer learning. It also includes tools to test how well the models work and to peek under the hood to see how they make their choices.
 
